@@ -1,0 +1,22 @@
+1.1.1
+
+	Bug fix update:
+	  There's no longer an error when dying while not playing DeathSwap.
+
+1.1.0
+
+	Feature update:
+	  /deathswap getTime was introduced to see the time between every swap.
+	  /deathswap reset no longer exists. It's now named /deathswap resetSettings.
+	  Deathswap was successfully tested on version 1.14.4.
+	  
+1.0.1
+
+	Bug fix update:
+	  You can no longer play with yourself.
+	  Fixed spelling error in 'help'.
+	  Performance update.
+	  
+1.0.0:
+
+	DeathSwap was finished on version 1.15.2 and released on spigotmc.org.

@@ -1,0 +1,17 @@
+name: Deathswap
+version: 1.1.1
+description: This is a remake of the well known Deathswap! Enjoy it!
+
+author: PadPlay
+main: me.padplay.deathswap.Main
+
+commands:
+  deathswap:
+  
+permissions:
+  deathswap.*:
+    description: Grants all deathswap-permissions.
+  deathswap.settings:
+    description: Grants access to change settings, e.g. minimum/maximum time to start the swap.
+  deathswap.start:
+    description: Grants access to start or stop the deathswap.
